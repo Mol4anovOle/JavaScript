@@ -3,7 +3,7 @@
 
 It's about *form* **page** in ***Mate Academy***
 --------------
-You can see this [link](https://mol4anovole.github.io/js/index.html) on my Github page
+You can see this [link](https://github.com/Mol4anovOle/JavaScript/SimpleValidation/index.html) on my Github page
 ***
 on this project you can see:
 * index.html
